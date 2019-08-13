@@ -5,6 +5,7 @@ locals {
       "Oscar",
       "Pedro",
       "Monse",
+      "Marin",
   ]
   certified = [
       "Gonzalo Lopez",
