@@ -6,7 +6,7 @@ This repo contains the open source terraform (v0.12.6) code in order to select t
 
 ## Instructions
 
-In the _terraform.tf_ file you'll find a couple of lists *participants* and *certified*:
+In the _terraform.tf_ file you'll find a couple of lists:*participants* and *certified*:
 
 ```yaml
   participants = [
