@@ -3,9 +3,9 @@ locals {
       "Gonzalo Lopez",
       "Panchito",
       "Oscar",
+      "Isaac Ma",
       "Pedro",
       "Monse",
-      "Isaac Ma",
   ]
   certified = [
       "Gonzalo Lopez",
