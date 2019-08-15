@@ -2,15 +2,18 @@ locals {
   participants = [
       "Gonzalo Lopez",
       "Panchito",
+      "Cristian",
       "Oscar",
+      "Isaac Ma",
       "Pedro",
-      "Monse",
-      "Marin",
+      "Marin"
   ]
   certified = [
       "Gonzalo Lopez",
+      "Cristian",
       "Panchito",
       "Oscar",
+      "Pedro",
   ]
 }
 
