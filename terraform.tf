@@ -3,6 +3,7 @@ locals {
       "Gonzalo Lopez",
       "Panchito",
       "Oscar",
+      "Isaac Ma",
       "Pedro",
       "Monse",
   ]
