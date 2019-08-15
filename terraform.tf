@@ -11,6 +11,7 @@ locals {
       "Gonzalo Lopez",
       "Panchito",
       "Oscar",
+      "Pedro",
   ]
 }
 
